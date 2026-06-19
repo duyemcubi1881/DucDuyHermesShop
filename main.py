@@ -74,10 +74,12 @@ PRODUCTS = {
         "tagline": "Ghim Đầu Cực Mạnh · Hỗ Trợ Đầy Đủ",
         "server": "AimLock Pro Exe",
         "packages": [
-            {"id": "ap_1d", "name": "AimLock Pro 1 Ngày", "price": 15_000, "duration": "1 ngày", "days": 1},
-            {"id": "ap_7d", "name": "AimLock Pro 7 Ngày", "price": 60_000, "duration": "7 ngày", "days": 7},
-            {"id": "ap_1m", "name": "AimLock Pro 1 Tháng", "price": 150_000, "duration": "1 tháng", "days": 30},
-            {"id": "ap_1ob", "name": "AimLock Pro 1 OB", "price": 450_000, "duration": "1 OB", "days": 90},
+            {"id": "ap_1d", "name": "AimLock Pro 1 Ngày", "price": 25_000, "duration": "1 ngày", "days": 1},
+            {"id": "ap_3d", "name": "AimLock Pro 3 Ngày", "price": 65_000, "duration": "3 ngày", "days": 3},
+            {"id": "ap_7d", "name": "AimLock Pro 7 Ngày", "price": 120_000, "duration": "7 ngày", "days": 7},
+            {"id": "ap_14d", "name": "AimLock Pro 14 Ngày", "price": 225_000, "duration": "14 ngày", "days": 14},
+            {"id": "ap_30d", "name": "AimLock Pro 30 Ngày", "price": 350_000, "duration": "30 ngày", "days": 30},
+            {"id": "ap_1ob", "name": "AimLock Pro 1 OB", "price": 550_000, "duration": "1 OB", "days": 90},
         ],
     },
 }
