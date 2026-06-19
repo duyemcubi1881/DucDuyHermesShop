@@ -13,6 +13,10 @@
     --font-family: 'Outfit', sans-serif;
 }
 
+.hidden {
+    display: none !important;
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
